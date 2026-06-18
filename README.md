@@ -60,18 +60,6 @@ Key responsibilities throughout the project lifecycle included:
 
 ---
 
-## Engineering Highlights
-
-* Purpose-built fisheries research platform
-* Integrated fish-finding and survey systems
-* Dedicated onboard research laboratory
-* Twin-engine propulsion arrangement
-* Compliance with Department of Shipping requirements
-* Successfully delivered and commissioned for operational service
-
-
----
-
 ## Project Outcome
 
 The Fish Research Vessel was successfully completed, tested, commissioned, and delivered to the Bangladesh Fisheries Research Institute. The vessel now serves as a dedicated platform for fisheries research, environmental monitoring, and scientific data collection in support of sustainable fisheries management.
