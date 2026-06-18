@@ -22,9 +22,7 @@
 
 ## Project Summary
 
-The Fish Research Vessel (FRV) was developed for the Bangladesh Fisheries Research Institute (BFRI) to support fisheries research, marine resource assessment, environmental monitoring, and scientific survey operations in Bangladesh's coastal and inland waters.
-
-The vessel incorporates modern fish-finding equipment, dedicated laboratory facilities, and survey capabilities to support long-term fisheries management and marine research programs.
+The Fish Research Vessel (FRV) was developed for the Bangladesh Fisheries Research Institute (BFRI) to support fisheries research, marine resource assessment, environmental monitoring, and scientific survey operations in Bangladesh's coastal and inland waters. The vessel incorporates modern fish-finding equipment, dedicated laboratory facilities, and survey capabilities to support long-term fisheries management and marine research programs.
 
 ---
 
@@ -36,55 +34,12 @@ The vessel incorporates modern fish-finding equipment, dedicated laboratory faci
 | Breadth (Moulded)    | 6.00 m                                  |
 | Depth (Moulded)      | 2.80 m                                  |
 | Draft                | 1.40 m                                  |
+| Main Engines         | 2 × 255 HP Yanmar                       |
+| Generator            | 1 × 37 kVA Beta Marine Ltd              |
 | Maximum Speed        | 10 Knots                                |
 | Classification       | Department of Shipping (DOS)            |
-| Special Features     | Fish Finder System, Research Laboratory |
-
----
-
-## Client Information
-
-| Item                     | Details                                        |
-| ------------------------ | ---------------------------------------------- |
-| Client                   | Bangladesh Fisheries Research Institute (BFRI) |
-| Classification Authority | Department of Shipping (DOS)                   |
-| Contract Signing Date    | 13 May 2019                                    |
-| Delivery Date            | 30 September 2021                              |
-
----
-
-## Machinery and Equipment
-
-### Main Propulsion System
-
-| Item                  | Specification |
-| --------------------- | ------------- |
-| Engine Manufacturer   | Yanmar        |
-| Country of Origin     | Japan         |
-| Quantity              | 2 Units       |
-| Rated Power           | 255 HP × 2    |
-| Total Installed Power | 510 HP        |
-
-### Electrical Power Generation
-
-| Item                   | Specification   |
-| ---------------------- | --------------- |
-| Generator Manufacturer | Beta Marine Ltd |
-| Country of Origin      | United Kingdom  |
-| Quantity               | 1 Unit          |
-| Capacity               | 37 kVA          |
-
----
-
-## Research and Survey Capabilities
-
-* Fisheries resource assessment
-* Fish stock monitoring
-* Hydro-biological sampling
-* Environmental data collection
-* Fish-finder-assisted survey operations
-* Onboard laboratory testing and analysis
-* Coastal and inland water research missions
+| Client               | Bangladesh Fisheries Research Institute |
+| Delivery Date        | 30 September 2021                       |
 
 ---
 
@@ -114,23 +69,6 @@ Key responsibilities throughout the project lifecycle included:
 * Compliance with Department of Shipping requirements
 * Successfully delivered and commissioned for operational service
 
----
-
-## Technical Overview
-
-| Parameter      | Specification              |
-| -------------- | -------------------------- |
-| Length Overall | 25.00 m                    |
-| Breadth (Mld.) | 6.00 m                     |
-| Depth (Mld.)   | 2.80 m                     |
-| Draft          | 1.40 m                     |
-| Maximum Speed  | 10 Knots                   |
-| Main Engines   | 2 × 255 HP Yanmar          |
-| Generator      | 1 × 37 kVA Beta Marine Ltd |
-| Classification | DOS                        |
-| Client         | BFRI                       |
-| Contract Date  | 13 May 2019                |
-| Delivery Date  | 30 September 2021          |
 
 ---
 
